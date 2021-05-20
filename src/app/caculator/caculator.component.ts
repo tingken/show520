@@ -11,7 +11,7 @@ export class CaculatorComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  input = '520';
+  input = '';
   imgSrc;
   show5(){
     let rad = Math.floor(Math.random() * 12) + 1;
