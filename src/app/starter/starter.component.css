@@ -1,0 +1,13 @@
+.allW{
+    width: 500px;
+}
+.noBorder{
+    background-color: transparent;
+    border: none;
+}
+.text{
+    color: crimson;
+    position: absolute;
+    top:250px;
+    left:200px;
+}

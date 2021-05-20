@@ -1,0 +1,62 @@
+.showArea{
+    height: 400px;
+}
+.show{
+    position: relative;
+    left: 50px;
+    width: 400px;
+    height: 400px;
+}
+.love{
+    position: absolute;
+    left: 0px;
+    width: 500px;
+    height: 400px;
+}
+.showResult{
+    position: absolute;
+    left: 180px;
+    top: 300px;
+    font-size: 50px;
+    color: crimson;
+}
+.caculator{
+    background-image: url('src/assets/caculator.jpg');
+    top: 400px;
+    width: 500px;
+    height: 651px;
+}
+.output{
+    position: absolute;
+    top: 470px;
+    left: 300px;
+    height: 200px;
+}
+.b5{
+    position: absolute;
+    top: 695px;
+    left: 170px;
+    width: 68px;
+    height: 68px;
+    background-color: transparent;
+    outline:0 none !important;
+    border: none;
+}
+.b2{
+    position: absolute;
+    top: 780px;
+    left: 170px;
+    width: 68px;
+    height: 68px;
+    background-color: transparent;
+    border: none;
+}
+.b0{
+    position: absolute;
+    top: 860px;
+    left: 170px;
+    width: 68px;
+    height: 68px;
+    background-color: transparent;
+    border: none;
+}
